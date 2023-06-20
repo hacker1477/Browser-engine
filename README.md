@@ -7,7 +7,7 @@
 - `style.rs`: Adds a style tree to the browser.
 - `layout.rs`: Implements the Box and layout tree.
 - `render.rs`: Handles rendering of the browser.
-- `main.rs`: include src.
+- `main.rs`: include lib.
 
 ## Getting Started
 
