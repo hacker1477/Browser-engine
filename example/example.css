@@ -1,0 +1,54 @@
+html
+{
+    display: block;
+}
+
+head {
+    display: none;
+}
+
+body{
+    display: block;
+    margin: 8px;
+}
+div{
+    display: block;
+}
+.blue {
+    background-color: blue;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.black{
+    background-color: black;
+}
+.gold{
+    background-color: gold;
+}
+
+.silver{
+    background-color: silver;
+}
+.bronze{
+    background-color: bronze;
+}
+.red{
+    background-color: #d61717;
+}
+
+.orangeed{
+    color: rgb(231, 101, 14);
+}
+
+.box {
+    display: inline-block;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    margin-left: 1px;
+    margin-top: 1px;
+    height: 300px;
+    width: 20%;
+}
