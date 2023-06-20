@@ -1,6 +1,6 @@
 # Brower Engine
 
-<img src="images/rendering.png" alt="render" align="middle" />
+<img src="images/render.png" alt="render" align="middle" />
 
 ## Components
 
