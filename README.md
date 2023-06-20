@@ -1,5 +1,7 @@
 # Brower Engine
 
+<img src="images/rendering.png" alt="render" align="middle" />
+
 ## Components
 
 - `dom.rs` and `html_parse.rs`: HTML engine and HTML parsing.
@@ -9,6 +11,20 @@
 - `render.rs`: Handles rendering of the browser.
 - `main.rs`: include lib.
 - The files in shaders are associated with OPENGL in render.rs for rendering purposes
+
+## Explain
+
+This is an html parsing schematic
+
+<img src="images/html_parsing.png" alt="html_parse" align="middle" />
+
+This is an css parsing schematic
+
+<img src="images/css_paring.png" alt="css_parse" align="middle" />
+
+And the following two are Google engine schematic and Firefox engine schematic
+<img src="images/webkit.png" alt="Google" align="left" />
+<img src="images/Gecko.png" alt="Firefox" align="right" />
 
 ## Getting Started
 
@@ -23,15 +39,11 @@ To use this browser engine, follow these steps:
 
 2.Build the code using Cargo:
 
-    ```
     cargo build
-    ```
 
 3.Run the Brower
 
-    ```
     cargo run
-    ```
 
 ## How to Contribute
 
