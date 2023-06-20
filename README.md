@@ -8,6 +8,7 @@
 - `layout.rs`: Implements the Box and layout tree.
 - `render.rs`: Handles rendering of the browser.
 - `main.rs`: include lib.
+- The files in shaders are associated with OPENGL in render.rs for rendering purposes
 
 ## Getting Started
 
